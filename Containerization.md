@@ -1,0 +1,3 @@
+
+# Containerization 
+  Easily my favorite topic we covered in this course. The ability to contain code in containers that you can tailor for different needs is amazing. For example, if using mySQL collecting data across different sources. You can redirect all of that data to save to a singular volume storage inside its own container. Not to mention using containers to communicate on a network, could be a major benefit working in a large corporation. Transfering different data out of containers all inside of one network!
